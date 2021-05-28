@@ -1,2 +1,2 @@
 # Machine_Learning
-We will look into various algorithms, code it using python and go through the various steps like validation, optimization.
+Understanding the basis of each of the Machine Learning Algorithms, code it using python and go through the various steps like validation, optimization.
